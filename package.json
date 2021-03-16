@@ -1,0 +1,24 @@
+{
+  "name": "censor-bot",
+  "version": "1.0.0",
+  "description": "This a simple code for censoring any msg carrying bad words",
+  "main": "App.js",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/CENSOR-BOT.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/CENSOR-BOT/issues"
+  },
+  "homepage": "https://github.com/alestor123/CENSOR-BOT#readme"
+}
